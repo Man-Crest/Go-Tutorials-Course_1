@@ -13,5 +13,6 @@ func main() {
 	fmt.Println(Puppy.Barks())
 	fmt.Println(Puppy.Aware())
 	fmt.Println(s1)
+	fmt.Println(s1)
 
 }
