@@ -1,0 +1,23 @@
+go 1.21.5
+
+use (
+	./02_hands_on
+	./04_arr_slice
+	./05_handOn_128
+	./06_functions
+	./08_clousers
+	./09_hands-on-func
+	./10_hand-on-interface
+	./11_testing_exe
+	./12_pointers
+	./14_generics
+	./15_Generics
+	./16_applications
+	./18_goroutins
+	./19_channels
+	./20_select
+	./21_context
+	
+	./23_go_testing
+	./24_applied_concurrency
+)
